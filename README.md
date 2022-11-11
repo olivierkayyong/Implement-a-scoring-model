@@ -13,7 +13,7 @@ The description of the different tables is as follows:
 <img src="features.png">
 
 ### Modelization
-The P7_Processing&Modelling.ipynb file contained in the "dossier_code" folder relates to the modeling code from preprocessing to prediction:
+The P7_Processing&Modelling.ipynb file relates to the modeling code from preprocessing to prediction:
   - Kernel choice
   - Treatment of outliers and missing values
   - Exploration of the dataset
@@ -22,7 +22,7 @@ The P7_Processing&Modelling.ipynb file contained in the "dossier_code" folder re
   - Analysis of global and local importance features
  
 ### Dashboard
-The dashboard.py file contained in the "dossier_code" folder relates to the code generating the dashboard which is hosted on the Heroku cloud server and accessible at this address:
+The dashboard.py file relates to the code generating the dashboard which is hosted on the Heroku cloud server and accessible at this address:
 
 https://kay10dashapp.herokuapp.com/
 
@@ -33,7 +33,7 @@ In the image below, we can see an overview of the site:
 <img src="dashboard.png">
 
 ### API
-The api.py and api_processing file contained in the "dossier_code" folder relate to the codes used to deploy the model in the form of an API which is also hosted on the Heroku cloud server and accessible at this address:
+The api.py and api_processing file relate to the codes used to deploy the model in the form of an API which is also hosted on the Heroku cloud server and accessible at this address:
 
 https://kay10api.herokuapp.com/docs
 The files that allowed to generate it are available at: https://github.com/olivierkayyong/Api

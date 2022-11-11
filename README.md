@@ -1,5 +1,5 @@
 # Implement a scoring model
-The financial company named "Ready to spend" offers consumer credit for people with little or no loan history.
+The financial company named "Prêt à dépenser" offers consumer credit for people with little or no loan history.
 The latter wishes to implement a “credit scoring” tool relating to a classification of applications as granted or refused credit.
 
 <img src="logo_entreprise.png">
